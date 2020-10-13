@@ -1,5 +1,5 @@
 {
-  "baseUrl" : "http://api.hbpqn.cn/",
+  "baseUrl" : "https://api.hbpqn.cn/",
   "showHelp" : true,
   "maxIntervalCheckDP" : 30000
 }
