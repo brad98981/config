@@ -1,5 +1,5 @@
 {
-  "baseUrl" : "https://api.hbpqn.cn/",
+  "baseUrl" : "http://api.alda8.com/",
   "showHelp" : true,
   "maxIntervalCheckDP" : 30000
 }
