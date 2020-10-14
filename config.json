@@ -1,5 +1,5 @@
 {
-  "baseUrl" : "https://api.alda8.com/",
+  "baseUrl" : "http://api.alda8.com/",
   "showHelp" : true,
-  "maxIntervalCheckDP" : 40000
+  "maxIntervalCheckDP" : 30000
 }
