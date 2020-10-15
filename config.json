@@ -27,6 +27,12 @@
         "P-FEI05"
       ],
       "url": "http://api.aldc8.com/"
+    },
+    {
+      "prdcts": [
+        "P-eks01"
+      ],
+      "url": "http://qtb-api.hbpqn.cn"
     }
   ]
 }
