@@ -1,5 +1,48 @@
 {
-  "baseUrl" : "http://api.hbpqn.cn/",
-  "showHelp" : true,
-  "maxIntervalCheckDP" : 30000
+  "baseUrl": "https://api.aldc8.com/",
+  "showHelp": true,
+  "maxIntervalCheckDP": 30000,
+  "hostGroups": [
+    {
+      "prdcts": [
+        "P-JX01",
+        "P-JX02",
+        "P-JX03",
+        "P-JX04",
+        "P-JX05",
+        "P-HT01",
+        "P-HT02",
+        "P-HT03",
+        "P-HT04",
+        "P-HT05",
+        "P-ZH01",
+        "P-ZH02",
+        "P-ZH03",
+        "P-ZH04",
+        "P-ZH05"
+      ],
+      "url": "http://qqd-api.zhubodaihuo.club/"
+    },
+    {
+      "prdcts": [
+        "P-HCPAY01",
+        "P-HCPAY02",
+        "P-HCPAY03",
+        "P-HCPAY04",
+        "P-HCPAY05",
+        "P-FEI01",
+        "P-FEI02",
+        "P-FEI03",
+        "P-FEI04",
+        "P-FEI05"
+      ],
+      "url": "https://api.aldc8.com/"
+    },
+    {
+      "prdcts": [
+        "P-eks01"
+      ],
+      "url": "http://qtb-api.zhubodaihuo.club"
+    }
+  ]
 }
