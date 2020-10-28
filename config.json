@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://api.aldc8.com/",
+  "baseUrl": "http://api.9875xs.com/",
   "showHelp": true,
   "maxIntervalCheckDP": 30000,
   "hostGroups": [
@@ -36,7 +36,7 @@
         "P-FEI04",
         "P-FEI05"
       ],
-      "url": "http://api.aldc8.com/"
+      "url": "http://api.9875xs.com/"
     },
     {
       "prdcts": [
